@@ -1,4 +1,5 @@
 /**
+<<<<<<< HEAD
  * Created by mmaruhnyak on 10/24/16.
  */
 
@@ -23,3 +24,4 @@ function randomizer(x,y) {
 console.log(execution(7,4,divider));
 console.log(execution(7,0,divider))
 console.log(execution(34,56,randomizer));
+
